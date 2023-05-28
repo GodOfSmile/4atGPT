@@ -3,4 +3,4 @@ install:
 	poetry install
 
 start:
-	poetry run python New4atGPT.py
+	poetry run python 4atgpt/New4atGPT.py
